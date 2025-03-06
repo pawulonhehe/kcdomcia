@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kcdomcia/static/css/main.07e1c79d.css",
+    "main.js": "/kcdomcia/static/js/main.c6f902cb.js",
+    "static/js/453.dc62150d.chunk.js": "/kcdomcia/static/js/453.dc62150d.chunk.js",
+    "static/media/bears.jpg": "/kcdomcia/static/media/bears.90167078edefdf0f0d0f.jpg",
+    "index.html": "/kcdomcia/index.html",
+    "main.07e1c79d.css.map": "/kcdomcia/static/css/main.07e1c79d.css.map",
+    "main.c6f902cb.js.map": "/kcdomcia/static/js/main.c6f902cb.js.map",
+    "453.dc62150d.chunk.js.map": "/kcdomcia/static/js/453.dc62150d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e1c79d.css",
+    "static/js/main.c6f902cb.js"
+  ]
+}
